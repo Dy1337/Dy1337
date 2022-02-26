@@ -3,12 +3,12 @@
 <h3 align="center">I make some public projects and educational content</h3>
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkarp&label=Profile%20views&color=0e75b6&style=flat" alt="darkarp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkarp&label=Profile%20views&color=0e75b6&style=flat" alt="Dy" /> </p>
 </br>
 
 - 📚 Educational Material - [WhiteHat Hacking](https://whitehathacking.tech)
 
-- 📫 How to reach me - **mario@whitehathacking.tech**
+- 📫 How to reach me - **Dy@whitehathacking.tech**
 - <a href="https://discord.gg/8xHn6Fr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="8xHn6Fr" height="20" width="" /> Join our educational discord server</a>
 
 </br>
@@ -27,6 +27,6 @@
 </br>
 
 <center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkarp&show_icons=true&locale=en" alt="darkarp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkarp&show_icons=true&locale=en" alt="Dy" /></p>
 
 </center>
