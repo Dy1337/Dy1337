@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dy1337&label=Profile%20views&color=0e75b6&style=flat" alt="Dy" /> </p>
 </br>
 
-- 📚 School Student
+- 📚 School Student 15y 
 
 - 📫 How to reach me - **dy1227fcp@gmail.com**
 
