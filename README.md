@@ -10,7 +10,7 @@
 
 - 📫 How to reach me - **dy1227fcp@gmail.com**
 
-- 🧙‍♂️ Hobbies - Chess, Puzzles, Sports, Programing, Anime, Reading Books, Blogging (SOON)
+- 🧙‍♂️ Hobbies - Chess, Puzzles, Sports, Programing, Anime, Reading Books... Blogging and practice Kravmaga (Soon)
 
 </br>
 
