@@ -30,6 +30,6 @@
 
 
 <center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dy1337p&show_icons=true&locale=en" alt="Dy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dy1337p&show_icons=true&locale=en" alt="Dy1337" /></p>
 
 </center>
