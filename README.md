@@ -6,10 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkarp&label=Profile%20views&color=0e75b6&style=flat" alt="Dy" /> </p>
 </br>
 
-- 📚 Educational Material - [WhiteHat Hacking](https://whitehathacking.tech)
+- 📚 School Student
 
-- 📫 How to reach me - **Dy@whitehathacking.tech**
-- <a href="https://discord.gg/8xHn6Fr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="8xHn6Fr" height="20" width="" /> Join our educational discord server</a>
+- 📫 How to reach me - **dy1227fcp@gmail.com**
 
 </br>
 
