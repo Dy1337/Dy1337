@@ -30,6 +30,6 @@
 
 
 <center>
-<p>[GitHub Stats](https://github-readme-stats.vercel.app/api?Dy1337theme=radical)
+<p>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dy1337&theme=radical)
 
 </center>
