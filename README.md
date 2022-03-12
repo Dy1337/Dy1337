@@ -30,6 +30,6 @@
 
 
 <center>
-<p>https://github-readme-stats.vercel.app/api?Dy1337" alt="Dy1337" /></p>
+<p>[GitHub Stats](https://github-readme-stats.vercel.app/api?Dy1337theme=radical)
 
 </center>
