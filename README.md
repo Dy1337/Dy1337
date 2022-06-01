@@ -28,10 +28,6 @@
 </br>
 </br>
 
-
-<center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dy1337&show_icons=true&locale=en" alt="Dy1337" /></p>
-  ![Snake animation](https://github.com/Dy1337/Dy1337/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
