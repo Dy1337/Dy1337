@@ -36,7 +36,7 @@
 <p><a href="https://www.buymeacoffee.com/Dy1337?new=1"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dy" align="center" /></a></p>
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dy1337&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dy1337&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dy1337&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   
