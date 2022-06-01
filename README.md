@@ -35,8 +35,8 @@
 <p><a href="https://www.paypal.com/myaccount/transfer/homepage" align="center"> <img align="center" src="https://www.cigafun.com/image/cigafun-paypal.webp" height="50" width="210" alt="Dy" /></a>
 <p><a href="https://www.buymeacoffee.com/Dy1337?new=1"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dy" align="center" /></a></p>
   </center>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Dy1337&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dy1337&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=Dy1337&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dy1337&layout=compact&langs_count=7&theme=ayu-mirage"/>
   <center>
 </div>
 </div>
