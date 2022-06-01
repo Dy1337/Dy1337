@@ -31,7 +31,7 @@
   
   ##
  
-<div> 
+<div align="top"> 
 <p><a href="https://www.paypal.com/myaccount/transfer/homepage" align="center"> <img align="center" src="https://www.cigafun.com/image/cigafun-paypal.webp" height="50" width="210" alt="Dy" /></a>
 <p><a href="https://www.buymeacoffee.com/Dy1337?new=1"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dy" align="center" /></a></p>
  <div align="center">
