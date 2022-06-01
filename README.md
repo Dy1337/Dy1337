@@ -16,9 +16,8 @@
 <p align="left">
 
 </p>
-
-<h3 align="center">Languages and Tools</h3>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/936005829675606046/981539094016442380/programing-languages.png">
+<h3 align="center">Languages and Tools</h3>
 </div>
   
   ##
