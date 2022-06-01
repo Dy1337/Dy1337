@@ -34,7 +34,7 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/Lascabim/Lascabim/blob/main/snake.svg) 
+  ![Snake animation](https://github.com/Dy1337/Dy1337/blob/main/snake.svg) 
  
 </div>
 </center>
