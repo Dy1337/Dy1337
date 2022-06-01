@@ -2,7 +2,7 @@
 <h3 align="center">I like Cyber Security 🕵️‍♂️</h3>
 
 </br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dy1337&label=Profile%20views&color=0e75b6&style=flat" alt="Dy" /> </p>
+<p align="center"> <img height="150" src="https://komarev.com/ghpvc/?username=Dy1337&label=Profile%20views&color=0e75b6&style=flat" alt="Dy" /> </p>
 </br>
 
 - 📚 School Student 15y 
@@ -16,7 +16,7 @@
 <p align="left">
 
 </p>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/936005829675606046/981539094016442380/programing-languages.png">
+  <img align="right" alt="Rafa-pic" height="500" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/936005829675606046/981539094016442380/programing-languages.png">
 <h3 align="center">Languages and Tools</h3>
 </div>
   
