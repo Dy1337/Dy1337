@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm a Coder</h1>
 <h3 align="center">I like Cyber Security 🕵️‍♂️</h3>
 
-</br>
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dy1337&label=Profile%20views&color=0e75b6&style=flat" alt="Dy" /> </p>
-</br>
+</center>
 
 - 📚 School Student 15y 
 
