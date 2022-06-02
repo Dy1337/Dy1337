@@ -39,7 +39,8 @@
   </br>
   <div align="center">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Dy1337&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dy1337&layout=compact&langs_count=7&theme=react"/>
+</div>
   
   ![Snake animation](https://github.com/Dy1337/Dy1337/blob/main/snake.svg) 
    
