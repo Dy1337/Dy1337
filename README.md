@@ -30,20 +30,10 @@
 </div>
   
   ##
+  
 <div align="center"> 
-  <p>
   <a href="https://www.paypal.com/paypalme/Dyy1337" target="_blank"> <img align="center" src="https://www.cigafun.com/image/cigafun-paypal.webp" height="50" width="210"></a>
   <a href="https://www.buymeacoffee.com/Dy1337?new=1" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"></a>
- </p>
-</div>
-
-  
-</div>
-</div>
-  
-  ##
- 
-<div> 
   
   ![Snake animation](https://github.com/Dy1337/Dy1337/blob/main/snake.svg) 
   
