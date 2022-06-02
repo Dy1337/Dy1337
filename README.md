@@ -35,7 +35,10 @@
 <div align="center"> 
   <a href="https://www.paypal.com/paypalme/Dyy1337" target="_blank"> <img align="center" src="https://www.cigafun.com/image/cigafun-paypal.webp" height="50" width="210"></a>
   <a href="https://www.buymeacoffee.com/Dy1337?new=1" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"></a>
-  
+  <div align="center">
+  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Dy1337&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dy1337&layout=compact&langs_count=7&theme=react"/>
+</div>
   ![Snake animation](https://github.com/Dy1337/Dy1337/blob/main/snake.svg) 
    
   <a href="https://www.instagram.com/cristiano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
