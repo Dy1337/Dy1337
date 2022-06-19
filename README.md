@@ -5,7 +5,7 @@
 <p align="center"> <img height="25" src="https://komarev.com/ghpvc/?username=Dy1337&label=Profile%20views&color=0e75b6&style=flat" alt="Dy" /> </p>
 </br>
 
-- 📚 School Student 15y 
+- 📚 Science And Technology School Student 15y 
 
 - 📫 How to reach me - **dy1227fcp@gmail.com** you can hire me as a FullStack Dev
 
