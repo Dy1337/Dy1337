@@ -9,7 +9,7 @@
 
 - 📫 How to reach me - **dy1227fcp@gmail.com** you can hire me as a FullStack Dev
 
-- 🧙‍♂️ Hobbies - Chess, Puzzles (a few with algorithms), Sports (mostly run), Programing, Anime, Studying Nutrition, Reading Books and Practice Piano........ Blogging and Practice Kravmaga (Soon)
+- 🧙‍♂️ Hobbies - Chess, Programing, Anime, Piano and Gym
 
 </br>
 
